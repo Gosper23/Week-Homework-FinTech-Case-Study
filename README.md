@@ -4,9 +4,10 @@
 ---
 
 # Company Overview
- **Immutable**
+
 ![Immutable X](https://user-images.githubusercontent.com/101617571/159677118-b777325b-bca7-45cf-b372-55d8cfd2a04d.png)
 
+ **Immutable**
 [Immutable](https://www.immutable.com/)
 
 Immutable is an Australian-based start up that began its operations in 2018 and has seen huge success in both domestic and offshore markets. Started by two brothers, Robbie and James Ferguson and friend Alex Connolly, the company began as a decentralised game designer that has gone on to become the leading global back-end for trading non-fungible tokens. The company first developed its first and now the highest grossing blockchain-backed video game, Gods Unchained, in 2018 where users "would trade and sell their cards freely, with the same level of ownership as if they were real tangible cards". [^1] [^9] [^2]
@@ -56,40 +57,58 @@ In addition to this, Immutable's solutions are only currently available on the E
 
 ## References
 
-[^1] [About Gods Unchained](https://godsunchained.fandom.com/wiki/Gods_Unchained)
+[^1]  
+[About Gods Unchained](https://godsunchained.fandom.com/wiki/Gods_Unchained)
  
-[^2] [Immutable](https://www.immutable.com/)
+[^2]  
+[Immutable](https://www.immutable.com/)
 
-[^3] [Crunchbase - company funding information](https://www.crunchbase.com/organization/immutable/company_financials)
+[^3]  
+[Crunchbase - company funding information](https://www.crunchbase.com/organization/immutable/company_financials)
 
-[^4] [Optimistic vs ZK Rollups](https://chaindebrief.com/optimistic-zero-knowledge-zk-rollups/#:~:text=A%20ZK%20Rollup%20has%20the,and%20more%20scalable%20than%20previously.)
+[^4] 
+[Optimistic vs ZK Rollups](https://chaindebrief.com/optimistic-zero-knowledge-zk-rollups/#:~:text=A%20ZK%20Rollup%20has%20the,and%20more%20scalable%20than%20previously.)
 
-[^5] [ZK rollups](https://blog.alchemy.com/blog/zero-knowledge-rollups)
+[^5] 
+[ZK rollups](https://blog.alchemy.com/blog/zero-knowledge-rollups)
 
-[^6] [PwC - VR/AR gaming will boost global GDP by $1.5 trillion](https://www.pwc.co.uk/services/economics/insights/vr-ar-to-boost-global-gdp.html)
+[^6] 
+[PwC - VR/AR gaming will boost global GDP by $1.5 trillion](https://www.pwc.co.uk/services/economics/insights/vr-ar-to-boost-global-gdp.html)
 
-[^7] [Forbes - Interest in NFTs and Metaverse is falling fast](https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?sh=2bd3294c1ebb)
+[^7] 
+[Forbes - Interest in NFTs and Metaverse is falling fast](https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?sh=2bd3294c1ebb)
 
-[^8] [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+[^8] 
+[What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
 
-[^9] [Guild of Guardians](https://guildofguardians.medium.com/about)
+[^9] 
+[Guild of Guardians](https://guildofguardians.medium.com/about)
 
-[^10] [Top Ethereum Layer 2 Networks](https://www.finextra.com/blogposting/21237/top-ethereum-layer-2-networks)
+[^10] 
+[Top Ethereum Layer 2 Networks](https://www.finextra.com/blogposting/21237/top-ethereum-layer-2-networks)
 
-[^11] [AFR - Immutable raises $82m to be centre of token trade](https://www.afr.com/companies/financial-services/immutable-raises-82m-to-be-centre-of-token-trade-20210912-p58qxl)
+[^11] 
+[AFR - Immutable raises $82m to be centre of token trade](https://www.afr.com/companies/financial-services/immutable-raises-82m-to-be-centre-of-token-trade-20210912-p58qxl)
 
-[^12] [Aussie crypto star Immutable banks $280m at $3.5b valuation](https://www.afr.com/technology/aussie-crypto-star-immutable-banks-280m-at-3-5b-valuation-20220302-p5a10h)
+[^12] 
+[Aussie crypto star Immutable banks $280m at $3.5b valuation](https://www.afr.com/technology/aussie-crypto-star-immutable-banks-280m-at-3-5b-valuation-20220302-p5a10h)
 
-[^13] [Immutable Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799-Immutable-X-Whitepaper)
+[^13] 
+[Immutable Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799-Immutable-X-Whitepaper)
 
-[^14] [What is a sidechain?](https://komodoplatform.com/en/academy/blockchain-sidechain/#:~:text=of%20this%20technology.-,What%20Is%20a%20Sidechain%3F,output%20address%20on%20the%20sidechain.)
+[^14] 
+[What is a sidechain?](https://komodoplatform.com/en/academy/blockchain-sidechain/#:~:text=of%20this%20technology.-,What%20Is%20a%20Sidechain%3F,output%20address%20on%20the%20sidechain.)
 
-[^15] [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+[^15] 
+[What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
 
-[^16] [zSync](https://zksync.io/)
+[^16] 
+[zSync](https://zksync.io/)
 
-[^17] [Comparison between layer 2 and sidechain solution](https://crypto.news/comparison-between-layer-2-sidechain-solutions/)
+[^17] 
+[Comparison between layer 2 and sidechain solution](https://crypto.news/comparison-between-layer-2-sidechain-solutions/)
 
-[^18] Personal Interview with Immutable Employee - Loxley Davies - M&A Lead
+[^18] 
+Personal Interview with Immutable Employee - Loxley Davies - M&A Lead
 
 
