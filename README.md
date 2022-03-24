@@ -27,30 +27,14 @@ Since its inception, Immutable has received large rounds funding from multiple V
 
 ---
 
-[^1]: See Reference 1
-[^9]: See Reference 9
-[^8]: See Reference 8
-[^3]: See Reference 3
-[^2]: See Reference 2
-[^11]: See Reference 11
-[^12]: See Reference 12
+# Business Activities and Company Landscape
+Ethereum is the world's second most valuable cryptocurrency and has gained popularity due to its compatibility with developer's projects. Despite this, it's compatibility for smart contracts, dApps and speed in which it can verify contracts, it still exhibits some major problems which Immutable are looking to solve. These issues include high gas fees, high requirements of electricity to validate transactions and ultimately network congestion which is slowing down the execution of smart contracts which Ethereum is known for. While at first glance, Immutable X's website looks like it is just another marketplace, similar to the likes of OpenSea, it is their Layer 2 scaling solution that can link with project is in place to ultimately support developers to mint projects and make secondary transacting more efficient than running NFT projects directly on Ethereum. Immutable was the first to develop a Layer 2 scaling solution for NFTs on the Ethereum Network and this project was developed to solve this specific issue, promising zero gas fees for peer to peer trading, increased scalability with 9,000 trades per second, and ensuring all transactions are 100% carbon neutral. [^10] [^8]
 
 ---
 
-# Business Activities and Company Landscape
-Ethereum is the world's second most valuable cryptocurrency and has gained popularity due to its compatibility with developer's projects. Despite this, it's compatibility for smart contracts, dApps and speed in which it can verify contracts, it still exhibits some major problems which Immutable are looking to solve. These issues include high gas fees, high requirements of electricity to validate transactions and ultimately network congestion which is slowing down the execution of smart contracts which Ethereum is known for. While at first glance, Immutable X's website looks like it is just another marketplace, similar to the likes of OpenSea, it is their Layer 2 scaling solution that can link with project is in place to ultimately support developers to mint projects and make secondary transacting more efficient than running NFT projects directly on Ethereum. Immutable was the first to develop a Layer 2 scaling solution for NFTs on the Ethereum Network and this project was developed to solve this specific issue, promising zero gas fees for peer to peer trading, increased scalability with 9,000 trades per second, and ensuring all transactions are 100% carbon neutral. [^10] [^8]
 The type of Layer 2 solution Immutable pioneered is called zero-knowledge roll up or ZK-rollups, which essentially the process of collateralising data on the main chain, that is then transported off-chain for processing and computing. ZK-rollups use validity proof to instantly determine if the transactions are valid or not. As data is stored off-chain and relevant data is requested less frequently, it saves considerable amounts of processing power and frees up the blockchain capacity used for transaction validation. [^5]
 There is only one other competitor in this space who do this form of Layer 2 protocol in zkSync which are more focussed on the development of dApps. However, having only released their product in Q3 2020, and due to the complexity of ZK-rollups, haven't been able to create efficiencies as great as Immutable. Their transaction speeds are much slower (up to 10 minutes) and still require some gas fees albeit very low. Other companies in the Layer 2 Protocol space include Arbitrum and Optimism which use optimistic rollup. Optimistic rollups, contrary to ZK-rollups, assume transactions are valid until proven otherwise. Optimistic rollups process ten time less transactions as ZK-rollups, are considerably slower as validation occurs off-chain and cannot be scalable to the degree ZK-rollups can be. [^16] [^4] [^17]
 It is also worth noting as well that sidechains like polygon exist in this space as they aim to combat scalability issues with mainchain cryptocurrencies although are not considered to be Layer 2 as they essentially copy nodes from the mainchain to verify the data to relieve on-chain processing. [^14]
-
-[^10]: See Reference 10
-[^8]: See Reference 8
-[^14]: See Reference 14
-[^13]: See Reference 13
-[^17]: See Reference 17
-[^4]: See Reference 4
-[^5]: See Reference 5
-[^16]: See Reference 16
 
 ---
 
@@ -60,10 +44,6 @@ Immutable have come a long way since their inception especially since they've on
 Despite all this, there are many variables are at play which will impact the company and it's project's long-term success. Over the short-term, Immutable are looking to add significant partners over the next couple of years, having announced recently that GameStop will partner with Immutable to launch an NFT marketplace for video game assets to help fuel secondary transacting. With a recent study by PwC suggesting that the global economic output for virtual reality gaming will reach $1.5 million by 2030, this will sure benefit the long-run success of Immutable. [^6]
 Further to this, Immutable aren't looking at slowing down with the company looking to hire an addition 200 staff over the next 12 months suggesting that there is potentially some big projects installed. This will be important in a space that is evolving at a rapid pace. Major Fortune 500 companies are also showing their attention in this space with the obvious company being Meta which are to release a "Metaverse" for gaming, trading digital assets and other virtual activities. 
 
-[^18]: Reference 18
-[^13]: Reference 13
-[^6]: Reference 6
-
 ---
 
 ## Recommendations
@@ -72,47 +52,44 @@ With a clear edge over any competitors in this space, Immutable are in a strong 
 To gain a further grasp of this space in the long-term, I would recommend Immutable to consider further continue to develop out their current project in order to remain dominant in the space. As this space is constantly evolving, they should not focus so much on gaining strategic partners to use their current technology and instead further invest in research and development and stay ahead of futher advances in the space. 
 In addition to this, Immutable's solutions are only currently available on the Ethereum network. There are a number of cryptocurrencies gaining popularity for their development capabilities which could see the same issues that Ethereum are currently experiencing. Cryptos such as MANA used for Decentraland and SAND for Sandbox which are both functioning metaverses are already beginning to experience the same issues as they begin to see large scale adoption. By developing a solution for these metaverses, Immutable can help further scale to assist in the scalability of these projects. Immutable could also span to assist non developer orientated coins such as bitcoin. Since bitcoin is the largest cryptocurrency based on market cap and transaction frequency it is experiencing the same issue as Ethereum. If Immutable's core metrics are based around transactions, developing a solution for Bitcoin will increase their metrics and profitability. [^15]
 
-[^7]: Reference 7
-[^15]: Reference 15
-
 ---
 
 ## References
 
-1. [About Gods Unchained](https://godsunchained.fandom.com/wiki/Gods_Unchained)
+[^1] [About Gods Unchained](https://godsunchained.fandom.com/wiki/Gods_Unchained)
  
-2. [Immutable](https://www.immutable.com/)
+[^2] [Immutable](https://www.immutable.com/)
 
-3. [Crunchbase - company funding information](https://www.crunchbase.com/organization/immutable/company_financials)
+[^3] [Crunchbase - company funding information](https://www.crunchbase.com/organization/immutable/company_financials)
 
-4. [Optimistic vs ZK Rollups](https://chaindebrief.com/optimistic-zero-knowledge-zk-rollups/#:~:text=A%20ZK%20Rollup%20has%20the,and%20more%20scalable%20than%20previously.)
+[^4] [Optimistic vs ZK Rollups](https://chaindebrief.com/optimistic-zero-knowledge-zk-rollups/#:~:text=A%20ZK%20Rollup%20has%20the,and%20more%20scalable%20than%20previously.)
 
-5. [ZK rollups](https://blog.alchemy.com/blog/zero-knowledge-rollups)
+[^5] [ZK rollups](https://blog.alchemy.com/blog/zero-knowledge-rollups)
 
-6. [PwC - VR/AR gaming will boost global GDP by $1.5 trillion](https://www.pwc.co.uk/services/economics/insights/vr-ar-to-boost-global-gdp.html)
+[^6] [PwC - VR/AR gaming will boost global GDP by $1.5 trillion](https://www.pwc.co.uk/services/economics/insights/vr-ar-to-boost-global-gdp.html)
 
-7. [Forbes - Interest in NFTs and Metaverse is falling fast](https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?sh=2bd3294c1ebb)
+[^7] [Forbes - Interest in NFTs and Metaverse is falling fast](https://www.forbes.com/sites/paultassi/2022/03/10/interest-in-nfts-and-the-metaverse-is-falling-fast/?sh=2bd3294c1ebb)
 
-8. [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+[^8] [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
 
-9. [Guild of Guardians](https://guildofguardians.medium.com/about)
+[^9] [Guild of Guardians](https://guildofguardians.medium.com/about)
 
-10. [Top Ethereum Layer 2 Networks](https://www.finextra.com/blogposting/21237/top-ethereum-layer-2-networks)
+[^10] [Top Ethereum Layer 2 Networks](https://www.finextra.com/blogposting/21237/top-ethereum-layer-2-networks)
 
-11. [AFR - Immutable raises $82m to be centre of token trade](https://www.afr.com/companies/financial-services/immutable-raises-82m-to-be-centre-of-token-trade-20210912-p58qxl)
+[^11] [AFR - Immutable raises $82m to be centre of token trade](https://www.afr.com/companies/financial-services/immutable-raises-82m-to-be-centre-of-token-trade-20210912-p58qxl)
 
-12. [Aussie crypto star Immutable banks $280m at $3.5b valuation](https://www.afr.com/technology/aussie-crypto-star-immutable-banks-280m-at-3-5b-valuation-20220302-p5a10h)
+[^12] [Aussie crypto star Immutable banks $280m at $3.5b valuation](https://www.afr.com/technology/aussie-crypto-star-immutable-banks-280m-at-3-5b-valuation-20220302-p5a10h)
 
-13. [Immutable Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799-Immutable-X-Whitepaper)
+[^13] [Immutable Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799-Immutable-X-Whitepaper)
 
-14. [What is a sidechain?](https://komodoplatform.com/en/academy/blockchain-sidechain/#:~:text=of%20this%20technology.-,What%20Is%20a%20Sidechain%3F,output%20address%20on%20the%20sidechain.)
+[^14] [What is a sidechain?](https://komodoplatform.com/en/academy/blockchain-sidechain/#:~:text=of%20this%20technology.-,What%20Is%20a%20Sidechain%3F,output%20address%20on%20the%20sidechain.)
 
-15. [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
+[^15] [What are cryptocurrency layer 2 scaling solutions](https://coinmarketcap.com/alexandria/article/what-are-cryptocurrency-layer-2-scaling-solutions)
 
-16. [zSync](https://zksync.io/)
+[^16] [zSync](https://zksync.io/)
 
-17. [Comparison between layer 2 and sidechain solution](https://crypto.news/comparison-between-layer-2-sidechain-solutions/)
+[^17] [Comparison between layer 2 and sidechain solution](https://crypto.news/comparison-between-layer-2-sidechain-solutions/)
 
-18. Personal Interview with Immutable Employee
+[^18] Personal Interview with Immutable Employee - Loxley Davies - M&A Lead
 
 
